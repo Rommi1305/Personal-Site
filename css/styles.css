@@ -1,0 +1,57 @@
+/* Tag */
+img {
+    border-radius: 100%;
+}
+body {
+    margin: 0px;
+    font-family: cursive;
+    margin-top: 5%;
+    background-color:limegreen;
+    text-align: center;
+}
+h1 {
+    font-size: 70px;
+    margin-bottom: 2px;
+}
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center
+}
+th, td {
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+th {
+    font-size: 50px;
+}
+/* Class */
+.icon {
+    height: 200px;
+    border-radius: 0%;
+}
+.head{
+    background-color: black;
+    margin-bottom: 5%;
+    padding-bottom: 5px;
+    color: grey;
+}
+/* ID */
+#pr-pi {
+    height: 300px;
+}
+#list {
+    text-align: left;
+    font-size: 25PX;
+    margin-bottom: 5%;
+}
+#table {
+    padding-bottom: 5%;
+    background-color: black;
+    color: grey;
+}
+#info {
+    font-size: 30px;
+}
